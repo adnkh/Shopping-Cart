@@ -1,0 +1,10 @@
+SMAP
+genericpage_tag.java
+JSP
+*S JSP
+*F
++ 0 genericpage.tag
+WEB-INF/tags/genericpage.tag
+*L
+5,281:70
+*E
